@@ -51,10 +51,10 @@ public class DemoqaTestCaseMain
 	    driver.findElement(By.id("phone_9")).sendKeys("19045557555");
 	    
 	    //set username
-	    driver.findElement(By.id("username")).sendKeys("MrWise8");
+	    driver.findElement(By.id("username")).sendKeys("MrWise9");
 	    
 	    //set email
-	    driver.findElement(By.id("email_1")).sendKeys("mrwise8@email.com");
+	    driver.findElement(By.id("email_1")).sendKeys("mrwise9@email.com");
 	    
 	    //set profile description
 	    driver.findElement(By.id("description")).sendKeys("I am Mr. Wise.");
